@@ -1,0 +1,32 @@
+[
+  {
+    "id": "f2caec3c-25d1-4304-b177-4cdeca3f1bc7",
+    "date": "2023-12-20T10:42:06.282Z",
+    "message": "hey what's up dude",
+    "author": "Davlat"
+  },
+  {
+    "id": "4ea53d3b-4427-47c5-a910-24a27f889f34",
+    "date": "2023-12-20T10:54:02.815Z",
+    "message": "I'm fine, how you doing?",
+    "author": "Kamal"
+  },
+  {
+    "id": "c736308a-0182-49ac-a5d6-67bcce46e8b8",
+    "date": "2023-12-20T10:55:09.028Z",
+    "message": "pretty nice",
+    "author": "Davlat"
+  },
+  {
+    "id": "0dfa26dc-6617-49e2-9bf1-659387a29fa2",
+    "date": "2023-12-20T10:59:42.090Z",
+    "message": "did you finish your web project?",
+    "author": "Kamal"
+  },
+  {
+    "id": "3adb1b2e-8148-40ad-89c0-2f4316ab28ea",
+    "date": "2023-12-20T11:00:01.476Z",
+    "message": "no, not yet",
+    "author": "Davlat"
+  }
+]

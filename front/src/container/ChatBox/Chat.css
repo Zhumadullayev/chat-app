@@ -1,0 +1,35 @@
+.chat-box {
+    background-color: #fce4ec; /* Light pink background color */
+    border-radius: 12px;
+    padding: 12px;
+    max-width: 70%;
+    margin: 10px;
+    word-wrap: break-word;
+    position: relative;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow for depth */
+}
+
+.message-text {
+    font-size: 16px; /* Slightly larger font size for better readability */
+    line-height: 1.6;
+    margin: 0;
+    color: #4a148c; /* Dark purple text color for better contrast */
+}
+
+.delete-button {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    background-color: #ff4081; /* Pink color for delete button */
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s ease; /* Add a smooth transition effect */
+}
+
+.delete-button:hover {
+    background-color: #d81b60; /* Darker pink on hover */
+}
